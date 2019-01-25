@@ -1,17 +1,19 @@
-{
-  "posts": [
-    "page1": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "first"
-    }
-    ]
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{  
+   "posts":[  
+      {  
+         "page1":[  
+            {  
+               "id":1,
+               "title":"hello"
+            },
+            {  
+               "id":2,
+               "title":"first"
+            }
+         ]
+      }
+   ],
+   "profile":{  
+      "name":"typicode"
+   }
 }
